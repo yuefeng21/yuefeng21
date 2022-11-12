@@ -5,6 +5,7 @@ plugins:
 gem "github-pages", group: :jekyll_plugins
 title: Yue Feng
 description: Yue Feng in your Area
-show_downloads: true 
+show_downloads: False
 #["true" or "false" (unquoted) to indicate whether to provide a download URL]
 google_analytics: 4279037344
+# measurement ID: G-4HCFR6MY9E
